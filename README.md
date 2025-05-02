@@ -1,0 +1,1 @@
+# Serielle-Kopplung-von-MCs
